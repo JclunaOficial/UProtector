@@ -30,12 +30,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>0</WarningLevel>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <DocumentationFile>bin\Release\JclunaOficial.UProtector.xml</DocumentationFile>
+    <DocumentationFile>
+    </DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="JclunaOficial.UString">
-      <HintPath>..\UString\bin\Release\JclunaOficial.UString.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
