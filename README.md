@@ -11,3 +11,7 @@ Las funciones son publicas (`public`) y compartidas (`static`) para que se pueda
 * **Xamarin Studio**, _en caso de querer compilar en otra plataforma (Linux o Mac), aunque el compilado con Windows se puede consumir en otras plataformas_.
 
 El proyecto esta creado con VS2015 Community y .NET v4.0, pero se pueden copiar los bytes (código) a otros IDEs para compilar y generar la libreria, prosupuesto configurando los ajustes necesarios para tener el producto final.
+
+### Compilado
+
+Si solo quieres la versión compilada de la libreria, entonces la puedes descargar haciendo [click aquí](https://www.dropbox.com/sh/q63joylv24spg39/AAAnbXqRnGNJ-SJGRvodZu97a?dl=0 "Dropbox"). Vas a encontrar todas las versiones que se han generado (Release y Debug); recomiendo uses la más reciente.
