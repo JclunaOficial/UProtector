@@ -6,7 +6,7 @@ using System.Text;
 namespace JclunaOficial
 {
     /// <summary>
-    /// Funciones (extension) de utilidad para encriptar/desencriptar 
+    /// Funciones (extension) para encriptar/desencriptar con Rijndael
     /// </summary>
     public static class UProtector
     {

@@ -2,9 +2,9 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("UProtector")]
-[assembly: AssemblyDescription("Funciones de utilidad para encriptar/desencriptar ")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Jcluna")]
+[assembly: AssemblyDescription("Librería para encriptar/desencriptar con Rijndael")]
+[assembly: AssemblyCompany("jcluna.oficial@gmail.com")]
+[assembly: AssemblyProduct("JclunaOficial")]
 [assembly: AssemblyCopyright("Copyright 2017 - Juan C. Luna H.")]
 [assembly: AssemblyVersion("2017.02.22.1105")]
 [assembly: AssemblyFileVersion("2017.02.22.1105")]
